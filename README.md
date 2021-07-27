@@ -174,7 +174,7 @@ setFavico(this.canvasFilter)
 
 ![](https://user-gold-cdn.xitu.io/2020/4/7/171535e9274ccf5a?w=259&h=110&f=gif&s=52928)
 
-看到favicon中略显忧郁的我，感觉回到了杀马特的青春岁月，可惜现在发量不行了
+看到favicon中略显忧郁的我，感觉回到了杀马特的青春岁月，可惜现在发量不行了 
 
 
 
