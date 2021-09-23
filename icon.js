@@ -212,7 +212,7 @@ class Icon{
 		let video = document.createElement('video')
 		video.width=this.width
 		video.controls="controls"
-		video.src=url || 'http://81.69.248.2:9999/down/JmtnmScfKYNZ'
+		video.src=url || '//v2.a.yximgs.com/upic/2021/01/15/21/BMjAyMTAxMTUyMTI2MTRfMjExMjA0ODM0NF80MjQyOTk1Mjk3MF8xXzM=_b_Ba9640587e59984fdee92c81454c0ff45.mp4'
 		video.crossOrigin = "anonymous"
         video.autoplay = "autoplay"
         video.volume = 0.5
