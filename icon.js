@@ -212,7 +212,7 @@ class Icon{
 		let video = document.createElement('video')
 		video.width=this.width
 		video.controls="controls"
-		video.src=url || 'www.aliyundrive.com/drive/folder/61487357c51f0f775af9429fb8924a0fc6803729'
+		video.src=url || 'http://81.69.248.2:9999/down/JmtnmScfKYNZ'
 		video.crossOrigin = "anonymous"
         video.autoplay = "autoplay"
         video.volume = 0.5
